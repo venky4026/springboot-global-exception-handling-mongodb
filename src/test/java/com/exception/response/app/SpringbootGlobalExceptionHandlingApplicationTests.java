@@ -8,7 +8,7 @@ class SpringbootGlobalExceptionHandlingApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Hello
+		Hello wellcome
 	}
 
 }
